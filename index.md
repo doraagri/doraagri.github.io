@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Leading Supplier of Plant Nutrients & Diseases Control Solution
 
-You can use the [editor on GitHub](https://github.com/doraagri/doraagri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction of Dora Agri
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dora Agri is a professional supplier of biostimulants and plant growth regulators in China. We are engaged in developing Dora series products to meet our customer’s demands.
 
-### Markdown
+For biostimulants including microbial fertilizers, amino acids, humic acid, seaweed and plant elicitors. Our mission is to help growers supply plant nutrition, improve soil conditions and reduce plant diseases. Use sustainable solutions to reduce the use of pesticides and increase crop yields and quality.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For Plant Growth Regulators, we supply wholesale high-efficiency and stable quality PGR Chemicals. To help growers increase root growth, flowering and fruit set. They stimulate plant enzymes, vitamins and promote photosynthesis.
 
-```markdown
-Syntax highlighted code block
+## Dora Agri Products
 
-# Header 1
-## Header 2
-### Header 3
+**Biofertilizer** Bacillus subtilis,Bacillus Amyloliquefaciens,bacillus licheniformis,Bacillus Mucilaginosus,penicillium bilaia,Trichoderma Harzianum,Trichoderma viride,paecilomyces lilacinus.
 
-- Bulleted
-- List
+**Biofungicide**: Beauveria Bassiana,Metarhizium Anisopliae,Paecilomyces Lilacinus Organic Biostimulants: OMRI Amino acids, Humic acid, Seaweed Fertilizer
 
-1. Numbered
-2. List
+**Plant Immune Elicitors**: Chitosan, Chitosan Oligosaccharide, harpin protein
 
-**Bold** and _Italic_ and `Code` text
+## How to contact Dora Agri
 
-[Link](url) and ![Image](src)
-```
+Website:www.doraagri.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Email:darren@doraagri.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doraagri/doraagri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Whatsapp:+86-18018160216
